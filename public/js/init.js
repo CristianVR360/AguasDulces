@@ -714,7 +714,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Abrir el modal y reproducir el video
     playButton.addEventListener('click', function () {
-        youtubeVideo.src = "https://www.youtube.com/embed/c4SGQAZWCQo?autoplay=1";
+        youtubeVideo.src = "https://www.youtube.com/embed/oOEpYbhaY7I?autoplay=1";
         modal.style.display = 'flex';
     });
 
